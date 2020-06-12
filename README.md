@@ -1,0 +1,2 @@
+# Twitter-Sentiment-Analysis
+Twitter has now become a useful way to build one's business as it helps in giving the brand a voice and a personality. The platform is also a quick, easy and inexpensive way to gain valuable insight from the desired audience. Identifying the sentiments about the product/brand can help the business take better actions.  To evaluate tweets about multiple brands.  Analysing the statement associated to a brand helps them in resolving the current issues and make better decisions.
